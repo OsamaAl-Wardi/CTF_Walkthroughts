@@ -1,4 +1,4 @@
 # CTF_Walkthroughts
 
 These are a collection of some CTF challenges I have completed.
-Some are password protected according to the guidlines of hackthebox.eu. The password in this case would be the flag.
+For the CTFs that are currently on going the .zip files will be encyrpted according to the guidlines of hackthebox.eu. The password in that case would be the flag.
